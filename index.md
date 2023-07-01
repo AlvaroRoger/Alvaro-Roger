@@ -1,16 +1,18 @@
 # Álvaro Roger
 ## Junior Technical Artist
-### I am a generalist game progammer looking forward to start my professional career as technical artist
+### I am a generalist game progammer looking forward to start my professional career as technical artist!
 
 # Rope System
 ### I implemented a rope system from scratch for a 2D game.
-#### In order to achieve this effect, I researched possible solutions and ended up with a spring-mass alike system.
+- Spring-mass alike rope realistic system.
+- Rope collisions (with optimization options).
+- Wind force.
 
 ![RopeSystem](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/0364406d-fb94-47df-90f5-edd4dde41cd2)
 
 # Tool: Feedbacks System
 ### A system to synchronize game events and vfx.
-- Different modules (GameObject, Unity Events, Particle System, Cinemachine...).
+- Component-based. Different modules based on (GameObject, Unity Events, Particle System, Cinemachine...).
 - Different actions for each module (Set Active, Play, Switch Color, Shake...).
 - Used to create the different effects for the [Game Feel Task](#game-feel-task).
 
@@ -28,8 +30,6 @@
 ![EventTool1](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/fe9d14fb-8197-4635-a587-96a832472640)
 
 
-
-
 # Tool: Save System
 
 # Tool: Procedural Path Generation
@@ -37,5 +37,12 @@
 # Shader Studies: Simple Project
 
 # Game Feel Task
+### Task I made for a gameplay programmer position.
+#### They gave me a simple scene with the standard pipeline and some models and asked me to create some "game feel" out of that.
+- Decided to create some gameplay, so it could feel natural.
+- Migrated the project to Universal Render Pipeline.
+- Created some particles and shaders to give more feedback to the player about what she can do.
+
+![GameFeelTask](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/2a2bebc0-7397-4fe6-b7b7-87ad1501b7db)
 
 # Miaumba
