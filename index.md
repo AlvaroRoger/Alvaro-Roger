@@ -31,10 +31,21 @@
 
 
 # Tool: Save System
+### Save system ready to save in all platforms
+- Abstracted from gameplay code.
+- Optimized: load and save by types, to reduce time and memory use.
+- Easy to configure and debug from editor.
+
+![SaveSystem](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/04a9cb7b-a751-406b-9feb-03509df896e9)
+
 
 # Tool: Procedural Path Generation
 
 # Shader Studies: Simple Project
+### This is a project I made just to study some simple shaders, like outline, water, grass or waterfall shaders.
+![NightInTheForest](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794)
+
+
 
 # Game Feel Task
 ### Task I made for a gameplay programmer position.
