@@ -1,5 +1,4 @@
-# Álvaro Roger
-## Junior Technical Artist
+# Junior Technical Artist
 ### I am a generalist game progammer looking forward to start my professional career as technical artist!
 
 # Rope System
