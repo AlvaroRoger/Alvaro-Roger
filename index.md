@@ -1,5 +1,6 @@
 # Junior Technical Artist
 ### I am a generalist game progammer looking forward to start my professional career as technical artist!
+### Take a look at some of my work ^^
 
 # Rope System
 ### I implemented a rope system from scratch for a 2D game.
