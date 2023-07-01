@@ -21,7 +21,7 @@
 
 
 # Tool: Event System
-### I implemented an event system to create event objects and instances from the editor.
+### Implemented an event system to create event objects and instances from the editor.
 - With this tool, you can create, edit and remove event objects from editor in a designer-friendly way.
 - Events are created with a name, a list of parameters and an icon. Instances of events are created as Scriptable Objects with the selected icon.
 - Used to create the different events (for example, when switching the projectile type) for the  [Game Feel Task](#game-feel-task).
@@ -40,6 +40,13 @@
 
 
 # Tool: Procedural Path Generation
+### Optimized algorithm to find networks of paths.
+- Backtracking algorithm.
+- Setup parameters: number of floors, global branch percentage, branch percentage multiplier by depth (with an animation curve)...
+- Every path meets the designer's rules.
+
+![ProceduralPath](https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/e67f9621-489d-44d9-b1c5-0cb727036f56)
+
 
 # Shader Studies: Simple Project
 ### This is a project I made just to study some simple shaders, like outline, water, grass or waterfall shaders.
