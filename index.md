@@ -106,10 +106,8 @@
 ## Pixel Effect - Shader Graph
 ### A render pass where I posterized the URP Sample Buffer.
 #### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
-<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls"></video>
 
 ## Motion Blur - HLSL
 ### A render pass where I applied some blur based on the camera position compared to the one from the previous frame.
-<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/1956ad8a-4728-49dc-aaf8-613178653fb2" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/1956ad8a-4728-49dc-aaf8-613178653fb2" controls="controls"></video>
