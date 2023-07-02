@@ -60,7 +60,7 @@
 #### They gave me a simple scene with the standard pipeline and some models and asked me to create some "game feel" out of that.
 - Decided to create some gameplay, so it could feel natural.
 - Migrated the project to Universal Render Pipeline.
-- Created some particles and shaders to give more feedback to the player about what she can do.
+- Created some particles and shaders to give more feedback to the player.
 
 <p align="center">
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/2a2bebc0-7397-4fe6-b7b7-87ad1501b7db" />
@@ -97,13 +97,13 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
 </p>
 
-## Grayscale shader - HLSL
+## Grayscale Effect - HLSL
 ### A render pass where I applied the dot product between the pixel color and a vec3 representing the grayscale.
 <p align="center">
   <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/0d8c415f-d35c-4548-9109-9b3fee5ddebc" />
 </p>
 
-## Pixel Effect Render Pass - Shader Graph
+## Pixel Effect - Shader Graph
 ### A render pass where I posterized the URP Sample Buffer.
 #### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
 <video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
