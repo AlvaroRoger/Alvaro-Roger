@@ -2,6 +2,7 @@
 ### I am a generalist game progammer looking forward to start my professional career as technical artist!
 ### Take a look at some of my work ^^
 
+# Tools and systems
 ## Rope Physics System
 ### I implemented a rope physics system from scratch for a 2D game.
 - Spring-mass alike rope realistic system.
@@ -53,7 +54,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/e67f9621-489d-44d9-b1c5-0cb727036f56" />
 </p>
 
-
+# Projects where I made some shaders
 ## Game Feel Task
 ### Task I made for a gameplay programmer position.
 #### They gave me a simple scene with the standard pipeline and some models and asked me to create some "game feel" out of that.
@@ -90,16 +91,15 @@
   <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/8424c914-3faa-4910-8322-f39163801eee" />
 </p>
 
-## Pixel Effect Render Pass - Shader Graph
-### A render pass made with Unity's Shader Graph.
-#### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
-<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
-</video>
-
-
 ## Night in the forest - Shader Graph
 ### A scene with some shaders like grass, water and outline.
 <p align="center">
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
 </p>
+
+## Pixel Effect Render Pass - Shader Graph
+### A render pass made with Unity's Shader Graph.
+#### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
+<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
+</video>
 
