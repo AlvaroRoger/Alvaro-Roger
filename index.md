@@ -13,7 +13,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/0364406d-fb94-47df-90f5-edd4dde41cd2" />
 </p>
 
-## Tool: Feedbacks System
+## Feedbacks Tool
 ### A system to synchronize game events and vfx.
 - Component-based. Different modules based on (GameObject, Unity Events, Particle System, Cinemachine...).
 - Different actions for each module (Set Active, Play, Switch Color, Shake...).
@@ -23,7 +23,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/279120d2-a25f-4eb0-b03f-eea3b4d86ab5" />
 </p>
 
-## Tool: Event System
+## Events Tool
 ### Implemented an event system to create event objects and instances from the editor.
 - With this tool, you can create, edit and remove event objects from editor in a designer-friendly way.
 - Events are created with a name, a list of parameters and an icon. Instances of events are created as Scriptable Objects with the selected icon.
@@ -34,7 +34,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/fe9d14fb-8197-4635-a587-96a832472640" />
 </p>
 
-## Tool: Save System
+## Save System
 ### Save system ready to save in all platforms
 - Abstracted from gameplay code.
 - Optimized: load and save by types, to reduce time and memory use.
@@ -44,7 +44,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/04a9cb7b-a751-406b-9feb-03509df896e9" />
 </p>
 
-## Tool: Procedural Path Generation
+## Procedural Path Generation
 ### Optimized algorithm to find networks of paths.
 - Backtracking algorithm.
 - Setup parameters: number of floors, global branch percentage, branch percentage multiplier by depth (with an animation curve)...
