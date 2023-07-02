@@ -1,4 +1,4 @@
-# Junior Technical Artist
+# Game Programmer Generalist
 ### I am a generalist game progammer looking forward to start my professional career as technical artist!
 ### Take a look at some of my work ^^
 
@@ -97,9 +97,19 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
 </p>
 
+## Grayscale shader - HLSL
+### A render pass where I applied the dot product between the pixel color and a vec3 representing the grayscale.
+<p align="center">
+  <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/0d8c415f-d35c-4548-9109-9b3fee5ddebc" />
+</p>
+
 ## Pixel Effect Render Pass - Shader Graph
-### A render pass made with Unity's Shader Graph.
+### A render pass where I posterized the URP Sample Buffer.
 #### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
 <video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
 </video>
 
+## Motion Blur - HLSL
+### A render pass where I applied some blur based on the camera position compared to the one from the previous frame.
+<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/1956ad8a-4728-49dc-aaf8-613178653fb2" controls="controls" style="max-width: 730px;">
+</video>
