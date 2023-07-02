@@ -54,7 +54,7 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/e67f9621-489d-44d9-b1c5-0cb727036f56" />
 </p>
 
-# Projects where I made some shaders
+# Some projects where I worked on shaders
 ## Game Feel Task
 ### Task I made for a gameplay programmer position.
 #### They gave me a simple scene with the standard pipeline and some models and asked me to create some "game feel" out of that.
