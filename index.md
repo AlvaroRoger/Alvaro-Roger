@@ -17,17 +17,17 @@
 ### A system to synchronize game events and vfx.
 - Component-based. Different modules based on (GameObject, Unity Events, Particle System, Cinemachine...).
 - Different actions for each module (Set Active, Play, Switch Color, Shake...).
-- Used to create the different effects for the [Game Feel Task](#game-feel-task).
+- Used in professional projects and in the [Game Feel Task](#game-feel-task).
 
 <p align="center">
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/279120d2-a25f-4eb0-b03f-eea3b4d86ab5" />
 </p>
 
-## Events Tool
+## Global Events Tool
 ### Implemented an event system to create event objects and instances from the editor.
 - With this tool, you can create, edit and remove event objects from editor in a designer-friendly way.
 - Events are created with a name, a list of parameters and an icon. Instances of events are created as Scriptable Objects with the selected icon.
-- Used to create the different events (for example, when switching the projectile type) for the  [Game Feel Task](#game-feel-task).
+- Used in professional projects and in the [Game Feel Task](#game-feel-task).
 
 <p align="center">
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/c8ea8fb0-a796-4f3c-8cae-a2fe24d5e9af" />
