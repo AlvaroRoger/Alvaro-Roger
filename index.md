@@ -92,11 +92,9 @@
 
 ## Pixel Effect Render Pass - Shader Graph
 ### A render pass made with Unity's Shader Graph.
-<p align="center">
-  <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/cd77bdce-0e00-4b32-bb25-db2aa3479975" />
-</p>
-
-https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/5e543329-f168-4b9b-b32f-78c7e6ec1209
+#### NOTE: I preferred to upload a video instead of a gif so that the effect can be better appreciated.
+<video src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/dbc8358e-d40c-4f73-ab03-623ad028fd72" controls="controls" style="max-width: 730px;">
+</video>
 
 
 ## Night in the forest - Shader Graph
