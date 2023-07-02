@@ -53,11 +53,6 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/e67f9621-489d-44d9-b1c5-0cb727036f56" />
 </p>
 
-## Shader Studies: Night in the forest
-### I have made some shaders like grass, water and outline.
-<p align="center">
-  <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
-</p>
 
 ## Game Feel Task
 ### Task I made for a gameplay programmer position.
@@ -81,3 +76,29 @@
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/efdbfe13-7845-44c1-ae6d-dcfa45383a88" />
   <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/94b91c2c-9a64-4b76-b90f-0134e5ed92ec" />
 </p>
+
+# Shader Studies
+## Glitch effect - HLSL
+### Vertex displacement effect with some bloom.
+<p align="center">
+  <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/cd9cfcf7-1d3a-4ba9-8330-e73786902b04" />
+</p>
+
+## Force Field Shader - Shader Graph
+### Force Field shader with hit ripples using Unity's Shader Graph. Followed mainly this [tutorial](https://danielilett.com/2023-02-09-tut6-3-energy-shield/).
+<p align="center">
+  <img src="https://github.com/AlvaroRoger/Alvaro-Roger/assets/49962993/8424c914-3faa-4910-8322-f39163801eee" />
+</p>
+
+## Pixel Effect Render Pass - Shader Graph
+### A render pass made with Unity's Shader Graph.
+<p align="center">
+  <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
+</p>
+
+## Night in the forest - Shader Graph
+### A scene with some shaders like grass, water and outline.
+<p align="center">
+  <img src="https://github.com/AlvaroRoger/PortfolioWebsite.github.io/assets/49962993/cb33e56b-4583-455a-920e-c6a5122e1794" />
+</p>
+
